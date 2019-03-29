@@ -1,0 +1,195 @@
+[28-Mar-2019 08:24:08 UTC] PHP Notice:  Undefined index: server_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 16
+[28-Mar-2019 08:24:08 UTC] PHP Notice:  Undefined index: db_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 17
+[28-Mar-2019 08:24:08 UTC] PHP Notice:  Undefined index: username in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 18
+[28-Mar-2019 08:24:08 UTC] PHP Notice:  Undefined index: password in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 19
+[28-Mar-2019 08:24:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php:21
+Stack trace:
+#0 C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php(21): PDO->__construct('mysql:host=;dbn...', NULL, NULL)
+#1 C:\inetpub\wwwroot\php\eventexamen\resources\index.php(11): Events->__construct()
+#2 {main}
+  thrown in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 21
+[28-Mar-2019 08:24:52 UTC] PHP Notice:  Undefined index: server_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 16
+[28-Mar-2019 08:24:52 UTC] PHP Notice:  Undefined index: db_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 17
+[28-Mar-2019 08:24:52 UTC] PHP Notice:  Undefined index: username in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 18
+[28-Mar-2019 08:24:52 UTC] PHP Notice:  Undefined index: password in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 19
+[28-Mar-2019 08:24:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php:21
+Stack trace:
+#0 C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php(21): PDO->__construct('mysql:host=;dbn...', NULL, NULL)
+#1 C:\inetpub\wwwroot\php\eventexamen\resources\index.php(11): Events->__construct()
+#2 {main}
+  thrown in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 21
+[28-Mar-2019 08:24:52 UTC] PHP Notice:  Undefined index: server_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 16
+[28-Mar-2019 08:24:52 UTC] PHP Notice:  Undefined index: db_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 17
+[28-Mar-2019 08:24:52 UTC] PHP Notice:  Undefined index: username in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 18
+[28-Mar-2019 08:24:52 UTC] PHP Notice:  Undefined index: password in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 19
+[28-Mar-2019 08:24:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php:21
+Stack trace:
+#0 C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php(21): PDO->__construct('mysql:host=;dbn...', NULL, NULL)
+#1 C:\inetpub\wwwroot\php\eventexamen\resources\index.php(11): Events->__construct()
+#2 {main}
+  thrown in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 21
+[28-Mar-2019 08:24:53 UTC] PHP Notice:  Undefined index: server_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 16
+[28-Mar-2019 08:24:53 UTC] PHP Notice:  Undefined index: db_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 17
+[28-Mar-2019 08:24:53 UTC] PHP Notice:  Undefined index: username in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 18
+[28-Mar-2019 08:24:53 UTC] PHP Notice:  Undefined index: password in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 19
+[28-Mar-2019 08:24:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php:21
+Stack trace:
+#0 C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php(21): PDO->__construct('mysql:host=;dbn...', NULL, NULL)
+#1 C:\inetpub\wwwroot\php\eventexamen\resources\index.php(11): Events->__construct()
+#2 {main}
+  thrown in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 21
+[28-Mar-2019 08:24:53 UTC] PHP Notice:  Undefined index: server_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 16
+[28-Mar-2019 08:24:53 UTC] PHP Notice:  Undefined index: db_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 17
+[28-Mar-2019 08:24:53 UTC] PHP Notice:  Undefined index: username in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 18
+[28-Mar-2019 08:24:53 UTC] PHP Notice:  Undefined index: password in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 19
+[28-Mar-2019 08:24:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php:21
+Stack trace:
+#0 C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php(21): PDO->__construct('mysql:host=;dbn...', NULL, NULL)
+#1 C:\inetpub\wwwroot\php\eventexamen\resources\index.php(11): Events->__construct()
+#2 {main}
+  thrown in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 21
+[28-Mar-2019 08:24:53 UTC] PHP Notice:  Undefined index: server_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 16
+[28-Mar-2019 08:24:53 UTC] PHP Notice:  Undefined index: db_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 17
+[28-Mar-2019 08:24:53 UTC] PHP Notice:  Undefined index: username in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 18
+[28-Mar-2019 08:24:53 UTC] PHP Notice:  Undefined index: password in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 19
+[28-Mar-2019 08:24:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php:21
+Stack trace:
+#0 C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php(21): PDO->__construct('mysql:host=;dbn...', NULL, NULL)
+#1 C:\inetpub\wwwroot\php\eventexamen\resources\index.php(11): Events->__construct()
+#2 {main}
+  thrown in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 21
+[28-Mar-2019 08:24:54 UTC] PHP Notice:  Undefined index: server_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 16
+[28-Mar-2019 08:24:54 UTC] PHP Notice:  Undefined index: db_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 17
+[28-Mar-2019 08:24:54 UTC] PHP Notice:  Undefined index: username in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 18
+[28-Mar-2019 08:24:54 UTC] PHP Notice:  Undefined index: password in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 19
+[28-Mar-2019 08:24:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php:21
+Stack trace:
+#0 C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php(21): PDO->__construct('mysql:host=;dbn...', NULL, NULL)
+#1 C:\inetpub\wwwroot\php\eventexamen\resources\index.php(11): Events->__construct()
+#2 {main}
+  thrown in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 21
+[28-Mar-2019 08:24:54 UTC] PHP Notice:  Undefined index: server_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 16
+[28-Mar-2019 08:24:54 UTC] PHP Notice:  Undefined index: db_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 17
+[28-Mar-2019 08:24:54 UTC] PHP Notice:  Undefined index: username in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 18
+[28-Mar-2019 08:24:54 UTC] PHP Notice:  Undefined index: password in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 19
+[28-Mar-2019 08:24:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php:21
+Stack trace:
+#0 C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php(21): PDO->__construct('mysql:host=;dbn...', NULL, NULL)
+#1 C:\inetpub\wwwroot\php\eventexamen\resources\index.php(11): Events->__construct()
+#2 {main}
+  thrown in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 21
+[28-Mar-2019 08:24:54 UTC] PHP Notice:  Undefined index: server_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 16
+[28-Mar-2019 08:24:54 UTC] PHP Notice:  Undefined index: db_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 17
+[28-Mar-2019 08:24:54 UTC] PHP Notice:  Undefined index: username in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 18
+[28-Mar-2019 08:24:54 UTC] PHP Notice:  Undefined index: password in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 19
+[28-Mar-2019 08:24:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php:21
+Stack trace:
+#0 C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php(21): PDO->__construct('mysql:host=;dbn...', NULL, NULL)
+#1 C:\inetpub\wwwroot\php\eventexamen\resources\index.php(11): Events->__construct()
+#2 {main}
+  thrown in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 21
+[28-Mar-2019 08:24:54 UTC] PHP Notice:  Undefined index: server_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 16
+[28-Mar-2019 08:24:54 UTC] PHP Notice:  Undefined index: db_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 17
+[28-Mar-2019 08:24:54 UTC] PHP Notice:  Undefined index: username in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 18
+[28-Mar-2019 08:24:54 UTC] PHP Notice:  Undefined index: password in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 19
+[28-Mar-2019 08:24:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php:21
+Stack trace:
+#0 C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php(21): PDO->__construct('mysql:host=;dbn...', NULL, NULL)
+#1 C:\inetpub\wwwroot\php\eventexamen\resources\index.php(11): Events->__construct()
+#2 {main}
+  thrown in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 21
+[28-Mar-2019 08:25:13 UTC] PHP Notice:  Undefined index: server_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 16
+[28-Mar-2019 08:25:13 UTC] PHP Notice:  Undefined index: db_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 17
+[28-Mar-2019 08:25:13 UTC] PHP Notice:  Undefined index: username in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 18
+[28-Mar-2019 08:25:13 UTC] PHP Notice:  Undefined index: password in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 19
+[28-Mar-2019 08:25:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php:21
+Stack trace:
+#0 C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php(21): PDO->__construct('mysql:host=;dbn...', NULL, NULL)
+#1 C:\inetpub\wwwroot\php\eventexamen\resources\index.php(11): Events->__construct()
+#2 {main}
+  thrown in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 21
+[28-Mar-2019 08:25:14 UTC] PHP Notice:  Undefined index: server_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 16
+[28-Mar-2019 08:25:14 UTC] PHP Notice:  Undefined index: db_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 17
+[28-Mar-2019 08:25:14 UTC] PHP Notice:  Undefined index: username in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 18
+[28-Mar-2019 08:25:14 UTC] PHP Notice:  Undefined index: password in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 19
+[28-Mar-2019 08:25:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php:21
+Stack trace:
+#0 C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php(21): PDO->__construct('mysql:host=;dbn...', NULL, NULL)
+#1 C:\inetpub\wwwroot\php\eventexamen\resources\index.php(11): Events->__construct()
+#2 {main}
+  thrown in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 21
+[28-Mar-2019 08:25:14 UTC] PHP Notice:  Undefined index: server_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 16
+[28-Mar-2019 08:25:14 UTC] PHP Notice:  Undefined index: db_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 17
+[28-Mar-2019 08:25:14 UTC] PHP Notice:  Undefined index: username in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 18
+[28-Mar-2019 08:25:14 UTC] PHP Notice:  Undefined index: password in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 19
+[28-Mar-2019 08:25:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php:21
+Stack trace:
+#0 C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php(21): PDO->__construct('mysql:host=;dbn...', NULL, NULL)
+#1 C:\inetpub\wwwroot\php\eventexamen\resources\index.php(11): Events->__construct()
+#2 {main}
+  thrown in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 21
+[28-Mar-2019 08:25:14 UTC] PHP Notice:  Undefined index: server_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 16
+[28-Mar-2019 08:25:14 UTC] PHP Notice:  Undefined index: db_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 17
+[28-Mar-2019 08:25:14 UTC] PHP Notice:  Undefined index: username in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 18
+[28-Mar-2019 08:25:14 UTC] PHP Notice:  Undefined index: password in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 19
+[28-Mar-2019 08:25:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php:21
+Stack trace:
+#0 C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php(21): PDO->__construct('mysql:host=;dbn...', NULL, NULL)
+#1 C:\inetpub\wwwroot\php\eventexamen\resources\index.php(11): Events->__construct()
+#2 {main}
+  thrown in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 21
+[28-Mar-2019 08:25:15 UTC] PHP Notice:  Undefined index: server_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 16
+[28-Mar-2019 08:25:15 UTC] PHP Notice:  Undefined index: db_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 17
+[28-Mar-2019 08:25:15 UTC] PHP Notice:  Undefined index: username in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 18
+[28-Mar-2019 08:25:15 UTC] PHP Notice:  Undefined index: password in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 19
+[28-Mar-2019 08:25:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php:21
+Stack trace:
+#0 C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php(21): PDO->__construct('mysql:host=;dbn...', NULL, NULL)
+#1 C:\inetpub\wwwroot\php\eventexamen\resources\index.php(11): Events->__construct()
+#2 {main}
+  thrown in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 21
+[28-Mar-2019 08:25:15 UTC] PHP Notice:  Undefined index: server_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 16
+[28-Mar-2019 08:25:15 UTC] PHP Notice:  Undefined index: db_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 17
+[28-Mar-2019 08:25:15 UTC] PHP Notice:  Undefined index: username in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 18
+[28-Mar-2019 08:25:15 UTC] PHP Notice:  Undefined index: password in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 19
+[28-Mar-2019 08:25:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php:21
+Stack trace:
+#0 C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php(21): PDO->__construct('mysql:host=;dbn...', NULL, NULL)
+#1 C:\inetpub\wwwroot\php\eventexamen\resources\index.php(11): Events->__construct()
+#2 {main}
+  thrown in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 21
+[28-Mar-2019 08:25:15 UTC] PHP Notice:  Undefined index: server_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 16
+[28-Mar-2019 08:25:15 UTC] PHP Notice:  Undefined index: db_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 17
+[28-Mar-2019 08:25:15 UTC] PHP Notice:  Undefined index: username in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 18
+[28-Mar-2019 08:25:15 UTC] PHP Notice:  Undefined index: password in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 19
+[28-Mar-2019 08:25:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php:21
+Stack trace:
+#0 C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php(21): PDO->__construct('mysql:host=;dbn...', NULL, NULL)
+#1 C:\inetpub\wwwroot\php\eventexamen\resources\index.php(11): Events->__construct()
+#2 {main}
+  thrown in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 21
+[28-Mar-2019 08:25:15 UTC] PHP Notice:  Undefined index: server_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 16
+[28-Mar-2019 08:25:15 UTC] PHP Notice:  Undefined index: db_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 17
+[28-Mar-2019 08:25:15 UTC] PHP Notice:  Undefined index: username in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 18
+[28-Mar-2019 08:25:15 UTC] PHP Notice:  Undefined index: password in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 19
+[28-Mar-2019 08:25:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php:21
+Stack trace:
+#0 C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php(21): PDO->__construct('mysql:host=;dbn...', NULL, NULL)
+#1 C:\inetpub\wwwroot\php\eventexamen\resources\index.php(11): Events->__construct()
+#2 {main}
+  thrown in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 21
+[28-Mar-2019 08:26:11 UTC] PHP Notice:  Undefined index: server_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 16
+[28-Mar-2019 08:26:11 UTC] PHP Notice:  Undefined index: db_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 17
+[28-Mar-2019 08:26:11 UTC] PHP Notice:  Undefined index: username in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 18
+[28-Mar-2019 08:26:11 UTC] PHP Notice:  Undefined index: password in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 19
+[28-Mar-2019 08:26:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php:21
+Stack trace:
+#0 C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php(21): PDO->__construct('mysql:host=;dbn...', NULL, NULL)
+#1 C:\inetpub\wwwroot\php\eventexamen\resources\index.php(11): Events->__construct()
+#2 {main}
+  thrown in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 21
+[28-Mar-2019 08:26:39 UTC] PHP Notice:  Undefined index: server_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 16
+[28-Mar-2019 08:26:39 UTC] PHP Notice:  Undefined index: server_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 16
+[28-Mar-2019 08:26:39 UTC] PHP Notice:  Undefined index: server_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 16
+[28-Mar-2019 08:28:11 UTC] PHP Notice:  Undefined index: server_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 16
+[28-Mar-2019 08:28:12 UTC] PHP Notice:  Undefined index: server_name in C:\inetpub\wwwroot\php\eventexamen\src\event\Events.php on line 16
